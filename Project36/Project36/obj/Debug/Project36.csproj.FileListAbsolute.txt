@@ -1,0 +1,7 @@
+C:\Users\windo\source\repos\Project36\Project36\bin\Debug\Project36.exe.config
+C:\Users\windo\source\repos\Project36\Project36\bin\Debug\Project36.exe
+C:\Users\windo\source\repos\Project36\Project36\bin\Debug\Project36.pdb
+C:\Users\windo\source\repos\Project36\Project36\obj\Debug\Project36.csprojAssemblyReference.cache
+C:\Users\windo\source\repos\Project36\Project36\obj\Debug\Project36.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Project36\Project36\obj\Debug\Project36.exe
+C:\Users\windo\source\repos\Project36\Project36\obj\Debug\Project36.pdb
